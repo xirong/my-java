@@ -3,7 +3,7 @@
  * author: xirong
  * date: 2015-07-16
  * version: 1.0
- * copyright 2015 elong Inc ,all rights reserved.
+ * copyright 2015  ,all rights reserved.
  */
 public class BubbleSort {
 
