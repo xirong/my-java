@@ -10,6 +10,10 @@
 - [Java 语言、虚拟机规范 - Java Language and Virtual Machine Specifications](http://docs.oracle.com/javase/specs/) Java SE6/7/8 每个版本中的语言规范、虚拟机规范进行说明。
 - [Google 代码规范 - Google Code Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html) 中文翻译版本[Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 
+## 常见问题
+- [深入理解HashMap](https://github.com/guohongjun/HashMap-System-Learning) HashMap 的结构是怎样的，又是怎样处理 Hash 冲突的。
+
+
 ## java8 学习
 
 
