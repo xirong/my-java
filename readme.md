@@ -21,6 +21,7 @@
 - [Understanding Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/) 阅读完《[深入理解Java虚拟机第二版](https://github.com/xirong/my-java/blob/master/jvm/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3java%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%AC%94%E8%AE%B0.xmind)》后，感觉没有形成一个大局观，这篇文章介绍的很详细，每个收集器的区别等。
 - [How to Monitor Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-monitor-java-garbage-collection/) 如何利用系统自带的监控工具进行监控 GC 的状态
 - [How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection/)
+- [JVM 性能监控及故障排查命令行、图形化工具介绍及相应使用方法](http://www.ixirong.com/2015/08/01/jvm-monitor-tools/)
 
 # 数据结构及算法
 复习数据结构进行的练习，整节来源于书籍《[大话数据结构](http://book.douban.com/subject/6424904/)》
