@@ -26,6 +26,9 @@
 - Jvm Tuning Resources (Jvm 调优实践)
 	- [Start with Jvm :heap,stack,-Xss,-Xmn,-Xmx,-Xms Overview](http://www.avricot.com/blog/?post/2010/05/03/Get-started-with-java-JVM-memory-(heap%2C-stack%2C-xss-xms-xmx-xmn...)) 介绍几个详细参数的确切含义
 	- [Java 进程 Jvm 参数调优指导 -- 各个参数介绍及实践经验](jvm/Java进程JVM参数调优指导.pdf) 介绍 Heap、Stack、Perm各个区及相应的优化参数，满满的都是实战经验。
+	- [Tuning Garbage Collection Outline](http://www.petefreitag.com/articles/gctuning/) 
+	- [Java SE 6 HotSpot[tm] Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
+	- [All Java HotSpot VM Options](http://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html) 所有的配置参数介绍
 
 # 数据结构及算法
 复习数据结构进行的练习，整节来源于书籍《[大话数据结构](http://book.douban.com/subject/6424904/)》
