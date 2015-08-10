@@ -28,7 +28,9 @@
 	- [Java 进程 Jvm 参数调优指导 -- 各个参数介绍及实践经验](jvm/Java进程JVM参数调优指导.pdf) 介绍 Heap、Stack、Perm各个区及相应的优化参数，满满的都是实战经验。
 	- [Tuning Garbage Collection Outline](http://www.petefreitag.com/articles/gctuning/) 
 	- [Java SE 6 HotSpot[tm] Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
+	- [Gabage First(G1) Collector in Jdk 7 - from Stackoverflow.com](http://stackoverflow.com/questions/8111310/java-7-jdk-7-garbage-collection-and-documentation) G1 收集器的一些介绍
 	- [All Java HotSpot VM Options](http://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html) 所有的配置参数介绍
+	- [Java HotSpot Garbage Collection Whiterpapers](http://www.oracle.com/technetwork/articles/java/index-jsp-140228.html) 包括内存管理、收集器技术、收集Tuning、常见错误解决方法、G1 介绍等。
 
 # 数据结构及算法
 复习数据结构进行的练习，整节来源于书籍《[大话数据结构](http://book.douban.com/subject/6424904/)》
