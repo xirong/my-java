@@ -9,13 +9,17 @@
 ## 规范
 - [Java 语言、虚拟机规范 - Java Language and Virtual Machine Specifications](http://docs.oracle.com/javase/specs/) Java SE6/7/8 每个版本中的语言规范、虚拟机规范进行说明。
 - [Google 代码规范 - Google Code Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html) 中文翻译版本[Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
-- [Reasons, Tips and Tricks for Better Java Documentation - 更好的 Java 文档注释](http://zeroturnaround.com/rebellabs/reasons-tips-and-tricks-for-better-java-documentation/) 写一个类、方法前思考清楚她的职责，多多使用 @Author/@Version/@Since/@Value 等注解来进行说明。中文翻译版本参考[ImportNew - 改善 Java 文档的理由、建议和技巧](http://www.importnew.com/16459.html)
+- [Reasons, Tips and Tricks for Better Java Documentation - 写更好的 Java 文档注释](http://zeroturnaround.com/rebellabs/reasons-tips-and-tricks-for-better-java-documentation/) 写一个类、方法前思考清楚她的职责，多多使用 @Author/@Version/@Since/@Value 等注解来进行说明。中文翻译版本参考[ImportNew - 改善 Java 文档的理由、建议和技巧](http://www.importnew.com/16459.html)
+
 
 ## 常见问题
 - [深入理解 HashMap](https://github.com/guohongjun/HashMap-System-Learning) HashMap 的结构是怎样的，又是怎样处理 Hash 冲突的。
 
 
-## java8 学习
+## Java8 学习
+
+## Java9 前沿
+
 
 # JVM 虚拟机
 
@@ -34,9 +38,10 @@
 	- [Java HotSpot Garbage Collection Whiterpapers](http://www.oracle.com/technetwork/articles/java/index-jsp-140228.html) 包括内存管理、收集器技术、收集Tuning、常见错误解决方法、G1 介绍等。
 
 # 数据结构及算法
-复习数据结构进行的练习，整节来源于书籍《[大话数据结构](http://book.douban.com/subject/6424904/)》
 
 ## 排序算法
+复习数据结构算法进行的练习，整节来源于书籍《[大话数据结构](http://book.douban.com/subject/6424904/)》
+
 - [冒泡排序及其改进](http://www.ixirong.com/2015/07/16/sort-algorithm-bubblesort/) ,源码地址[BubbleSort](sort-algorithm/BubbleSort.java)
 - [简单选择排序](http://www.ixirong.com/2015/07/19/sort-algorithm-selectionsort/) ，源码地址[SelectionSort](sort-algorithm/SelectionSort.java)
 - [直接插入排序](http://www.ixirong.com/2015/07/19/sort-algorithem-insertsort/)，源码地址[SelectionSort](sort-algorithm/SelectionSort.java)
