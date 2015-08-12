@@ -9,6 +9,7 @@
 ## 规范
 - [Java 语言、虚拟机规范 - Java Language and Virtual Machine Specifications](http://docs.oracle.com/javase/specs/) Java SE6/7/8 每个版本中的语言规范、虚拟机规范进行说明。
 - [Google 代码规范 - Google Code Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html) 中文翻译版本[Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+- [Reasons, Tips and Tricks for Better Java Documentation - 更好的 Java 文档注释](http://zeroturnaround.com/rebellabs/reasons-tips-and-tricks-for-better-java-documentation/) 写一个类、方法前思考清楚她的职责，多多使用 @Author/@Version/@Since/@Value 等注解来进行说明。中文翻译版本参考[ImportNew - 改善 Java 文档的理由、建议和技巧](http://www.importnew.com/16459.html)
 
 ## 常见问题
 - [深入理解 HashMap](https://github.com/guohongjun/HashMap-System-Learning) HashMap 的结构是怎样的，又是怎样处理 Hash 冲突的。
