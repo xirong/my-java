@@ -15,6 +15,8 @@
 ## 常见问题
 - [深入理解 HashMap](https://github.com/guohongjun/HashMap-System-Learning) HashMap 的结构是怎样的，又是怎样处理 Hash 冲突的。
 
+## 并发编程
+- [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
 
 ## Java8 学习
 
@@ -31,7 +33,7 @@
 - Jvm Tuning Resources (Jvm 调优实践)
 	- [Start with Jvm :heap,stack,-Xss,-Xmn,-Xmx,-Xms Overview](http://www.avricot.com/blog/?post/2010/05/03/Get-started-with-java-JVM-memory-(heap%2C-stack%2C-xss-xms-xmx-xmn...)) 介绍几个详细参数的确切含义
 	- [Java 进程 Jvm 参数调优指导 -- 各个参数介绍及实践经验](jvm/Java进程JVM参数调优指导.pdf) 介绍 Heap、Stack、Perm各个区及相应的优化参数，满满的都是实战经验。
-	- [Tuning Garbage Collection Outline](http://www.petefreitag.com/articles/gctuning/) 
+	- [Tuning Garbage Collection Outline](http://www.petefreitag.com/articles/gctuning/)
 	- [Java SE 6 HotSpot[tm] Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
 	- [Gabage First(G1) Collector in Jdk 7 - from Stackoverflow.com](http://stackoverflow.com/questions/8111310/java-7-jdk-7-garbage-collection-and-documentation) G1 收集器的一些介绍
 	- [All Java HotSpot VM Options](http://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html) 所有的配置参数介绍
@@ -50,4 +52,3 @@
 - 归并排序
 - 快速排序
 - 桶排序
-
