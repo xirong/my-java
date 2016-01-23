@@ -19,6 +19,7 @@
 - [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
 
 ## Java8 学习
+- [Java Platform, Standard Edition (Java SE) 8 Documentation](http://docs.oracle.com/javase/8/)
 
 ## Java9 前沿
 
@@ -38,6 +39,8 @@
 	- [Gabage First(G1) Collector in Jdk 7 - from Stackoverflow.com](http://stackoverflow.com/questions/8111310/java-7-jdk-7-garbage-collection-and-documentation) G1 收集器的一些介绍
 	- [All Java HotSpot VM Options](http://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html) 所有的配置参数介绍
 	- [Java HotSpot Garbage Collection Whiterpapers](http://www.oracle.com/technetwork/articles/java/index-jsp-140228.html) 包括内存管理、收集器技术、收集Tuning、常见错误解决方法、G1 介绍等。
+
+jvm 的测试代码及一些参考资料见[目录jvm](jvm/)
 
 # 数据结构及算法
 
