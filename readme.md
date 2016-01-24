@@ -4,9 +4,6 @@
 整个 repo 内容迁移到「[my-backend 后端学习资料](https://github.com/xirong/my-backend)」中，日后将在此进行汇总整理，还望关注的朋友们见谅！
 
 
-
-整个repo都是个人在学习Java过程中收集的资料，进行的练习，分享给大家。
-
 # java 语言
 
 ## 规范
