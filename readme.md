@@ -1,9 +1,4 @@
 
-**2016-01-24 更新** 
-
-整个 repo 内容迁移到「[my-backend 后端学习资料](https://github.com/xirong/my-backend)」中，日后将在此进行汇总整理，还望关注的朋友们见谅！
-
-
 # java 语言
 
 ## 规范
